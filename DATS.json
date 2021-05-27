@@ -27,7 +27,7 @@
 				"OBJ",
 				"GIfTI"
             ],
-			"size" : 408,
+			"size" : 406.77,
 		        "unit" : {
             			"value": "MB"
 		        },
@@ -116,7 +116,7 @@
 			"category": "files",
 			"values": [
 				{
-					"value": "240"
+					"value": "223"
 				}
 			]
 		},
